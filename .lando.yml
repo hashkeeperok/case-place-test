@@ -1,0 +1,6 @@
+name: case-place-testapp
+recipe: laravel
+config:
+  php: '7.4'
+  via: nginx
+  webroot: public
